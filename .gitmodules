@@ -1,0 +1,3 @@
+[submodule "imported/fuse"]
+	path = imported/fuse
+	url = https://github.com/anssihalmeaho/fuse.git
